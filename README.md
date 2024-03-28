@@ -8,3 +8,6 @@ Data science & Data analyst engineer
 vasanth-kumar-data-analyst)
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+
+![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanth-r&theme=dark&show_icons=true&&hide=issues,contribs)
