@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth-data-analyst" /> </p>
 
-- 🌱 I’m currently learned **Data science with python**
+- 🌱 I’m recently completed **Data science with python**
 
 - 👯 I’m looking to collaborate on **ML/AI**
 - 📄 Know about my experiences [fresher](fresher)
