@@ -28,6 +28,3 @@ vasanth-kumar-data-analyst)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanth-data-analyst&show_icons=true&locale=en" alt="vasanth-data-analyst" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanth-data-analyst&" alt="vasanth-data-analyst" /></p>
-
-
-![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanth-r&theme=dark&show_icons=true&&hide=issues,contribs)
