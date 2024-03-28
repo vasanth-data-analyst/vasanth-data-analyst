@@ -1,3 +1,5 @@
+![logo](https://github.com/vasanth-data-analyst/vasanth-data-analyst/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
+
 ## Hi there 👋 It's me Vasanth kumar
 
 Data science & Data analyst engineer
