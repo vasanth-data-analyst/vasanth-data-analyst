@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vasanth Kumar D</h1>
-<h3 align="center">A passionate Data science engineer from India</h3>
+<h3 align="center">Passionate Data Science Fresher | Analytical Mindset & Coding Enthusiast | Seeking Opportunities to Apply Skills and Grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth-data-analyst" /> </p>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
