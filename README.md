@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Vasanth Kumar D</h1>
-<h3 align="center">Passionate Data Science Fresher | Analytical Mindset & Coding Enthusiast | Seeking Opportunities to Apply Skills and Grow.</h3>
+<h3 align="center">Passionate in Data Science | Analytical Mindset & Coding Enthusiast | Seeking Opportunities to Apply Skills and Grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth-data-analyst" /> </p>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
-- 🌱 I’m recently completed **Data science with python**
+- 🌱 I’m have completed **Data science with python**
 
 - 👯 I’m looking to collaborate on **ML/AI**
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 My experiences in data science is 9 months
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
