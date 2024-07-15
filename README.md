@@ -1,4 +1,4 @@
-![logo](https://github.com/vasanth-data-analyst/vasanth-data-analyst/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/vasanth-data-analyst/vasanth-data-analyst/blob/main/Neutral Creative Professional LinkedIn Article Cover Image.png")
 
 
 
