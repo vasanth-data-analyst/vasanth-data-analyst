@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth-data-analyst" /> </p>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
-- 🌱 I’m have completed **Data science with python**
+- 🌱 I’m have completed **Data Science with Python**
 
 - 👯 I’m looking to collaborate on **ML/AI**
-- 📄 My experiences in data science is 9 months
+- 📄 My experiences in data analyst is 3 years
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-- 📫 How to reach me **vasanth070998@gmail.com**
+- 📫 How to reach me **vasanthkumard98@gmail.com**
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/
 vasanth-kumar-d)
