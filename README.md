@@ -9,7 +9,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 - 🌱 I’m have completed **Data Science with Python**
 
-- 👯 I’m looking to collaborate on **ML/AI**
+- 👯 I’m looking to collaborate on **Data Analyst**
 - 📄 My experiences in data analyst is 3 years
   
 <h3 align="left">Connect with me:</h3>
